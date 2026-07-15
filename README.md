@@ -1,5 +1,3 @@
-# Calculate-Statistical
-
 # 🧮 StatCalc: Neumorphic CLI Statistical Calculator
 **StatCalc** is a modern, lightweight, web-based statistical calculator built with React.js. It elegantly bridges the gap between retro Command Line Interfaces (CLI) and modern Neumorphic (soft UI) design, providing a tactile, interactive, and highly functional tool for instant statistical data analysis.
 ## ✨ Value Proposition & Key Features
